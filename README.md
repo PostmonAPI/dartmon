@@ -3,8 +3,27 @@ Dartmon
 
 A Dart package to use the Postmon API
 
-License
+Use
+------
 
+```dart
+import "package:dartmon/dartmon.dart";
+    
+void() {
+  Postmon postmon = new Postmon("cep_here");
+  print(postmon.infos);
+}
+```
+    
+ToDo
+------
+
+ * Function to use tracking API's method
+ * Improve unittests
+ * Remove the "dart:html" dependency
+
+License
+--------
     Copyright 2014 The Postmon API Team
 
 	Licensed under the Apache License, Version 2.0 (the "License");
