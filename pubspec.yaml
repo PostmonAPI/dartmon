@@ -1,7 +1,8 @@
 name: dartmon
 version: 0.1.0
 description: A Package to use the Postmon API
-author: The Postmon API Team
+homepage: http://github.com/PostmonAPI/dartmon
+author: The Postmon API Team <contact@codingforchange.com>
 dependencies:
-  browser: any
-  unittest: any
+  browser: ">=0.10.0+1 <0.10.1"
+  unittest: ">=0.10.1+2 <0.10.2"
