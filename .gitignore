@@ -1,3 +1,4 @@
 *.swp
 pubspec.lock
 packages/
+build/
