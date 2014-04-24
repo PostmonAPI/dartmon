@@ -4,3 +4,4 @@ description: A Package to use the Postmon API
 author: The Postmon API Team
 dependencies:
   browser: any
+  unittest: any
