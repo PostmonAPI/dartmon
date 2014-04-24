@@ -1,3 +1,8 @@
+// Copyright (c) 2014, The Postmon API Team.
+// This source code is governed by an Apache-style
+// license and more information can be found 
+// in the README.md file.
+
 import "package:unittest/unittest.dart";
 import "package:unittest/html_config.dart";
 import "package:dartmon/dartmon.dart";
